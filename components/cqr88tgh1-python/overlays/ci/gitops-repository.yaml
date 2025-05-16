@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cqr88tgh1-python-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/cqr88tgh1-python-gitops
